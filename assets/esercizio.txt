@@ -1,0 +1,6 @@
+L'esercitazione settimanale richiede la progettazione (come di consueto su carta o tool di wireframe) e l'impaginazione del file "layout-grafico.png", utilizzando i seguenti file messi a disposizione
+1) immagini (cartella assets/images)
+2) File CSS di font awesome (assets/css/font-awesome.min.css)
+3) Font di Fontawesome (tutta la cartella "fonts" presente dentro "assets")
+
+Va realizzata e verificata l'impaginazione per i soli dispositivi mobile, attivando da console la simulazione layout fino a 480px massimo.
